@@ -1,5 +1,5 @@
 # Current work:
-  - This repository was originally part of a second-year project for students in **Electronic and Information Engineering** at **Imperial College London**. Currently, I am working on implementing **Universal Verification Methodology (UVM)** based on the previous work in the main branch.
+  - This repository was originally part of a second-year project for students in **Electronic and Information Engineering** at **Imperial College London**. Currently, I'm working on improving the code's readbility and adding more features.
   - For more details, refer to other branches. The [**full-rv32i-design**](https://github.com/arlo-wang/Group-9-RISC-V/tree/full-rv32i-design) branch contains the final version submitted for the project.
 
 # Group-9-RISC-V Team Project
